@@ -1,2 +1,2 @@
 # VRchat_midi_pulse_sensor
-VRchatのワールド上に自分の脈絡数をグローバルで表示するやつ
+VRchatのワールド上に自分の脈拍数をグローバルで表示するやつ
